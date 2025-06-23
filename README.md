@@ -1,4 +1,8 @@
+Passionate about building efficient web applications and solving complex problems through code. 
+Experienced in full-stack development with expertise in Java, Python, and modern web technologies.
+Currently exploring Laravel and MERN Stack development.
 
+📫 Let's connect: tlokotsemogudi@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tlokotse-mogudi) 
 

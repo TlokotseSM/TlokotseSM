@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=githubpages&logoColor=white)](https://tlokotsesm.github.io/tlokotse-portfolio/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/semakaleng.mogudi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semakalengmogudi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tlokotse-mogudi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29443536) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Semakaleng_T) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tlokotsemogudi@gmail.com) 
 
 # 💻 Tech Stack:

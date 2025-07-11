@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi there I'm Tlokotse Mogudi<br>I'm passionate about building efficient web applications and solving complex problems through code. Experienced in full-stack development with expertise in Java, Python, and modern web technologies. Currently exploring Laravel and MERN Stack development.<br><br>📫 Let's connect: tlokotsemogudi@gmail.com
+👋Hi there I'm Tlokotse Mogudi<br>I'm passionate about building efficient web applications and solving complex problems through code. Experienced in full-stack development with expertise in Java, Python, and modern web technologies. Currently exploring Laravel , Nest and MERN Stack development.<br><br>📫 Let's connect: tlokotsemogudi@gmail.com
 
 
 ## 🌐 Socials:
